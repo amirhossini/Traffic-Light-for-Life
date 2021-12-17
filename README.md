@@ -1,6 +1,6 @@
 # Trafic-Light-for-Life (SAS Hackathon 2021)
 
-A data for good project that was the winner submission in Global HackinSAS 2021. Below are the highlights of the project, followed by technical details and model execution instructions:
+A data for good project that was the winning submission in Global HackinSAS 2021. Below are the highlights of the project, followed by technical details and model execution instructions:
 - __The central idea:__ smart intersection management through audio sensing to prioritize emergency vehicles (please see the submission here: https://communities.sas.com/t5/Hacker-s-Hub-library/Traffic-Lights-for-Life-audio-based-intersection-management-for/ta-p/716595)
 - __Raspberry Pi Project:__ Bi-directional set-up hosted by Azure IoT Hub
 - __Artificial Intelligence:__ Application of CNN & LSTM (with 5 sec Audio Chunks) & CNN (with Spectrograms) for binary classification of emergency vs. non-emergency vehicles
